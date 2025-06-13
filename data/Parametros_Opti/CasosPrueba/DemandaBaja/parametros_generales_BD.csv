@@ -1,0 +1,15 @@
+Parametro,Valor
+T_dias_planificacion,39
+TruckCap_Compra_General,100
+Costo_Fijo_Camion_FC,500
+Costo_Unitario_Plantacion_PC,2
+Tiempo_Carga_LC_min,30
+Tiempo_Descarga_LD_min,30
+Jornada_Laboral_JL_min,480
+Almacen_Capacidad_m2,500
+Max_Viajes_Compra_Dia,5
+Max_Viajes_Distribucion_Dia,5
+Max_Desperdicio_Porcentaje,0.10
+Presupuesto_Total,18000000
+Stock_Minimo_Deseado_Por_Especie,200
+TruckCap_P1Distrib, 100
